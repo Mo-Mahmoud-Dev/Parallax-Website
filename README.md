@@ -3,7 +3,7 @@
 I created a website for a fake company using Parallax Website Design.
 
 # How to use
-You can view my profile here <a href="https://code-mo-dev.github.io/Parallax-Website/"> Click here </a>
+You can view my profile here <a href="https://Mo-Mahmoud-Dev.github.io/Parallax-Website/"> Click here </a>
 
 # Technologies that were used
 
@@ -25,7 +25,7 @@ I used `JavaScript` to make the site more interactive. An example of interactivi
 ## 📁 File structure
 
 ```bash
-📦 Code-Mo-dev/Parallax Website
+📦 Mo-Mahmoud-Dev/Parallax Website
 ├── index.html
 |
 ├── script.js
@@ -85,8 +85,8 @@ I used `JavaScript` to make the site more interactive. An example of interactivi
 
 Feel free to get in touch with me if you have any questions or just want to chat about web development!
 
-- 📧 Email: [@code-mo](mailto:codemo2004@gmail.com)
-- 🐙 GitHub: [@code-mo-dev](https://github.com/code-mo-dev)
+- 📧 Email: [@mo.mahmoud.dev@gmail.com](mailto:mo.mahmoud.dev@gmail.com)
+- 🐙 GitHub: [@Mo-Mahmoud-Dev](https://github.com/Mo-Mahmoud-Dev)
 - 💼 LinkedIn: [@‏Mohamed_Mahmoud‏](https://www.linkedin.com/in/mohamed-mahmoud-024714335/)
 
 
